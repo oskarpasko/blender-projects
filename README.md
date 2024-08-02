@@ -7,3 +7,4 @@ Repository for blender's projects.
 - Explorer Guitar
 - V Guitar
 - Metallica's "M" Logo
+- drum sticks
