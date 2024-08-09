@@ -6,4 +6,3 @@ Repository for blender's projects.
 - Witcher's sword
 - Explorer Guitar
 - V Guitar
-- Metallica's "M" Logo
