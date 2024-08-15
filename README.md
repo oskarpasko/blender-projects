@@ -5,4 +5,5 @@ Repository for blender's projects.
 - Pokeball
 - Witcher's sword
 - Explorer Guitar
-- V Guitar
+- room
+- desk
