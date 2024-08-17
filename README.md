@@ -7,3 +7,4 @@ Repository for blender's projects.
 - Explorer Guitar
 - room
 - desk
+- wzmacniacz 
